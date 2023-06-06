@@ -26,8 +26,9 @@ Atualmente estou estudando processamento de imagens para visão computacional, a
   <img align="center" alt="Python" height="33" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="Numpy" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img align="center" alt="Pandas" height="39" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+  <img align="center" alt="Opencv" height="50" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
+  <!--<img align="center" alt="PyTorch" height="36" width="48"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /> </!-->
   <img align="center" alt="Seaborn" height="45" width="45" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
-  <!--<img align="center" alt="PyTorch" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />-->
   <img align="center" alt="Sql" height="39" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img align="center" alt="Vscode" height="37" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Excel" height="65" width="65" src="https://github.com/willgarib/willgarib/blob/main/assets/imagem.svg" />
