@@ -32,6 +32,7 @@ Atualmente estou estudando processamento de imagens para visão computacional, a
   <img align="center" alt="Sql" height="39" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img align="center" alt="Vscode" height="37" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Excel" height="65" width="65" src="https://github.com/willgarib/willgarib/blob/main/assets/imagem.svg" />
+  <img align="center" alt="PowerBi" height="35" width="35" src="https://github.com/willgarib/willgarib/blob/main/assets/imagem2.svg" />
 </div>
 </details>
 
